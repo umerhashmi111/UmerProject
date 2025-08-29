@@ -72,10 +72,10 @@ export default function HomePage() {
               <Image
                 src="/images/hero.png"
                 alt="Calculator, documents, and house model"
-                width={1600}
+                width={1200}
                 height={1200}
                 priority
-                className="w-full h-auto"
+                className="w-full h-95"
               />
             </div>
           </div>
